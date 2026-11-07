@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Dedicated AI Search Engine Crawlers (ChatGPT Search, Perplexity, Claude, Gemini)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Canonical XML Sitemap
+Sitemap: https://salattimeapp.com/sitemap.xml
+
+# Bing & IndexNow Authentication
+# https://salattimeapp.com/b3e856e9a28f480cb914854307ec2901.txt
+
